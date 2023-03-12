@@ -22,3 +22,23 @@ SMTP Email Service
 
 React JS  
 Tailwind CSS
+
+### Demo Images
+
+***Home Page***
+![](demo-images/home-page.png)
+
+***Buyer Registration***
+![](demo-images/buyer-registration.png)
+
+***Product creation***
+![](demo-images/product-creation.png)
+
+***Item addition to cart***
+![](demo-images/item-adition-to-cart.png)
+
+***Checkout***
+![](demo-images/checkout.png)
+
+***Order history***
+![](demo-images/order-history.png)
